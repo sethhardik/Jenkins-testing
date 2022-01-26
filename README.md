@@ -1,2 +1,2 @@
 # Jenkins-Testing
-A basic setup for jenkins github integrati
+A basic setup for jenkins github integration
